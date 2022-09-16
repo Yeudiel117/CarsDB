@@ -1,0 +1,101 @@
+.navegador{
+    background-color: rgb(59, 71, 82);
+    border: 2px;
+    border-color: white;
+    border-style: outset;
+}
+
+a{
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    font-size: 15pt;
+    color: white;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    word-spacing: -10px;
+    padding: 20px;
+}
+
+body{
+    background-color: aliceblue;
+}
+
+.centrarTitulo{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.divtablas{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12pt;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    margin-left: 39%;
+    margin-right: 39%;
+    padding-left: 3%;
+    border: 2px;
+    border-color: white;
+    border-style: outset
+}
+
+.divboton{
+    padding-top: 10pt;
+    padding-left: 47%;
+}
+
+button{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18pt;
+    font-weight: 800;
+    border-color: white;
+    border-style: outset;
+}
+
+.consultas{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12pt;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-left: 3%;
+    border: 2px;
+    border-color: white;
+    border-style: outset;
+}
+
+.consultasClientes{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12pt;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    margin-left: 37%;
+    margin-right: 37%;
+    padding-left: 3%;
+    border: 2px;
+    border-color: white;
+    border-style: outset;
+}
+
+.consultasVentas{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12pt;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    margin-left: 38%;
+    margin-right: 38%;
+    padding-left: 3%;
+    border: 2px;
+    border-color: white;
+    border-style: outset;
+}
+
+.tablasconsulta{
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+}
+
+td, th {
+    border: solid 1px black;
+    } 
